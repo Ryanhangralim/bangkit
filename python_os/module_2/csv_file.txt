@@ -1,0 +1,7 @@
+name,phone_number,role
+Bob,987544,teacher
+Cindy,234242,student
+David,341234,principal
+Ella,342342342,student
+Felix,9948844,student
+Gabriel,3424234,teacher
